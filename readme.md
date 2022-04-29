@@ -1,1 +1,1 @@
-Olá, aprendendo a utilizar o git
+Olá, estamos nos estressando com o git
